@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/in/austin-zane/
 - icon: cv
   icon_pack: ai
-  url: uploads/AUSTIN_ZANE_CV_SITE.pdf
+  link: uploads/AUSTIN_ZANE_CV_SITE.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
