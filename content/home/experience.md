@@ -26,8 +26,8 @@ experience:
     company: Harvard T.H. Chan School of Public Health
     company_url: 'https://www.hsph.harvard.edu/biostatistics/diversity/summer-program/'
     location: Boston, MA
-    date_start: '2020-06'
-    date_end: '2020-07'
+    date_start: '2020-06-08'
+    date_end: '2020-07-08'
     description: |2-
         Responsibilities include:
         
