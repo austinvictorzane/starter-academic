@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Summer Program in Biostatistics
     company: Harvard T.H. Chan School of Public Health
-    company_url: 'https://www.hsph.harvard.edu/biostatistics/diversity/summer-program/'
+    company_url: ''
     location: Boston, MA
     date_start: '2020-06-08'
     date_end: '2020-07-08'
@@ -35,11 +35,11 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: REU
+    company: Texas State University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: San Marcos, TX
+    date_start: '2019-06-01'
+    date_end: '2016-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
