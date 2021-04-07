@@ -36,8 +36,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-<font size="1"> 
+
 [Statistical and Bioinformatic Analysis of Hemimethylation Patterns in Non-Small Cell Lung Cancer](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-021-07990-7)  
 Sun, S., Zane, A., Fulton, C., & Philipoom, J.  
-BMC Cancer, 21, 268 (2021) </font>
+BMC Cancer, 21, 268 (2021)
 
