@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of California, Berkeley
-  url: https://www.stanford.edu/
+  url: https://statistics.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: NA
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of California, Berkeley
-    year: 2021 - Current
+    year: 2021 - Present
   - course: BSc in Statistics and Applied Math
     institution: Texas A&M University
     year: 2017 - 2021
@@ -39,19 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: mailto:austin.zane@berkeley.edu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/austin-zane/
+ - icon: cv
+   icon_pack: ai
+   link: uploads/AUSTIN_ZANE_CV_SITE.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
