@@ -28,12 +28,7 @@ experience:
     location: Boston, MA
     date_start: '2020-06-08'
     date_end: '2020-07-08'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Used population data from the CDC’s National Health and Nutrition Examination Survey to investigate cardiovascular disease risk factor disparities associated with race and socioeconomic variables.
         
   - title: REU
     company: Texas State University
@@ -41,5 +36,5 @@ experience:
     location: San Marcos, TX
     date_start: '2019-06-01'
     date_end: '2016-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Conducted the first-ever investigation of hemimethylation in lung cancer.
 ---
