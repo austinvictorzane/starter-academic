@@ -36,6 +36,6 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-hello, is this where I type?
-Sun, S., Zane, A., Fulton, C., & Philipoom, J. Statistical and Bioinformatic Analysis of Hemimethylation Patterns in Non-Small Cell Lung Cancer. BMC Cancer, 21, 268 (2021). [doi.org/10.1186/s12885-021-07990-7](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-021-07990-7)
+
+Sun, S., Zane, A., Fulton, C., & Philipoom, J. *Statistical and Bioinformatic Analysis of Hemimethylation Patterns in Non-Small Cell Lung Cancer*. BMC Cancer, 21, 268 (2021). [doi.org/10.1186/s12885-021-07990-7](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-021-07990-7)
 
