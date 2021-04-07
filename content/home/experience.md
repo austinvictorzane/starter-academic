@@ -28,9 +28,7 @@ experience:
     location: Boston, MA
     date_start: '2020-06-08'
     date_end: '2020-07-08'
-    description: |2-
-        Responsibilities include:
-        
+    description: |2-        
         * Used population data from the CDC’s National Health and Nutrition Examination Survey.
         * Analyzed cardiovascular disease risk factor disparities associated with race and socioeconomic variables.
         
