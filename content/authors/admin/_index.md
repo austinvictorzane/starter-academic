@@ -20,7 +20,7 @@ bio: NA
 interests:
 - Deep Learning
 - Bioinformatics
-- Statistical Machine Learning
+- Statistical Learning
 
 # Education to show in About widget
 education:
