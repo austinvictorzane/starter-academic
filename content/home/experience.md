@@ -39,7 +39,7 @@ experience:
     date_start: '2019-06-01'
     date_end: '2016-08-31'
     description: |2-        
-       * Published the first-ever investigation of hemimethylation in lung cancer.
+       * Published the first investigation of hemimethylation in lung cancer.
        * Analyzed massive genetic datasets using R and Bash.
        * Wrote virtually all of the code, conducted the statistical analysis, and wrote most of the manuscript.
 ---
