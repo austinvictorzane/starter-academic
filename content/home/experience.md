@@ -41,5 +41,5 @@ experience:
     description: |2-        
        * Published the first investigation of hemimethylation in lung cancer.
        * Analyzed massive genetic datasets using R and Bash.
-       * Wrote virtually all of the code, conducted the statistical analysis, and wrote most of the manuscript.
+       * Took the lead for the coding, statistical analysis, and authoring of the manuscript.
 ---
